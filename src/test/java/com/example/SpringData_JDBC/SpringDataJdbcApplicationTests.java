@@ -9,5 +9,4 @@ class SpringDataJdbcApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
